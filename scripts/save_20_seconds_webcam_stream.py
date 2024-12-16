@@ -2,7 +2,8 @@ import cv2
 import time
 
 # Open RTSP stream
-cap = cv2.VideoCapture("rtsp://100.100.204.36:8554/webcam") #farmhub IP
+cap = cv2.VideoCapture("rtsp://100.84.183.17:8554/video") #farmhub IP
+
 
 # Get video properties
 frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
