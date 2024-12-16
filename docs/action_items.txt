@@ -7,8 +7,16 @@
 
 
 22 Oct 2024:
-[ ] A video to check the number with loading / unloading.
+[x] A video to check the number with loading / unloading.
 [ ] Number plate detection
 [ ] Truck entrance detection
-[ ] Tracker ( https://docs.ultralytics.com/modes/track/#python-examples )
+[x] Tracker ( https://docs.ultralytics.com/modes/track/#python-examples )
 [ ] Bag Counter Distinct colour
+
+
+17 Dec 2025
+[x] Check Tailscale local video transfer from compooter to Linux.
+[ ] Check Tailscale Live video transfer from compooter to Linux.
+[ ] Setup Webcam on compooter.
+[ ] Get IP of cameras.
+[ ] Website for product.
