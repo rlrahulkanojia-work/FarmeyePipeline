@@ -1,0 +1,10 @@
+# Details about the videos and the duration in which the bags are actually being loaded in the trucks.
+
+### Videos
+
+- 4MP
+ - 1.mp4 : 11:00 : END
+ - 2.mp4 : START : 21:00 | 32:00 - END
+ - 3.mp4 : START : 43:00
+ - 4.mp4 : 20:00 : 25:00 | 38:00 : 42:00
+ - 5.mp4 : --------------

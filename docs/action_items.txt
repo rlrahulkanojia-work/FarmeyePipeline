@@ -1,0 +1,14 @@
+14 Oct 2024
+[x] monday they will install for this loading point before that i will give then left and MP ka feedback 
+[x] we check the feed and tell them if that is good enough 
+[x] reiterate for best camera angle/position and start collecting the data
+[x] training of model bags, trucks back(for increasing the bag count ) 
+[ ] number plate detection to find in which truck its been loaded
+
+
+22 Oct 2024:
+[ ] A video to check the number with loading / unloading.
+[ ] Number plate detection
+[ ] Truck entrance detection
+[ ] Tracker ( https://docs.ultralytics.com/modes/track/#python-examples )
+[ ] Bag Counter Distinct colour
